@@ -1,0 +1,7 @@
+# Direct research dependencies; versions are not locked or installation-tested.
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+yfinance

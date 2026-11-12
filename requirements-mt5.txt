@@ -1,0 +1,2 @@
+# Optional acquisition through a locally authenticated Windows MT5 terminal.
+MetaTrader5; sys_platform == "win32"
